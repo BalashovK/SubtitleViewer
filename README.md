@@ -2,7 +2,7 @@
 
 This software is for a theater to show large subtitles on a TV screen or with projector during the  play.
 
-Current main use-case is to allow english speakers to watch shows in other languages. 
+Current main use-case is to allow English speakers to watch shows in other languages. 
 
 We run this from a Windows laptop connected to a projector or large screen TVs, in full screen mode.
 
